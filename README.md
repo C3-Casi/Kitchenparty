@@ -1,6 +1,5 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Kitchenparty
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+As you might know, the best parts conversations on a party are taking place in the kitchen. 
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+Therefore I'm designing a small 5-kitchen-and-1-bathroom-workadventure to meet for a bithday-party or whatever occasion you find for partying online with a maximum of 25 users.
